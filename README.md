@@ -1,5 +1,4 @@
-# codeAlpha_Movie-finder
-#  Movie Finder App
+#  Movie Finder Web App
 
 A simple and interactive movie search application built using JavaScript and the OMDb API.
 
@@ -28,7 +27,7 @@ A simple and interactive movie search application built using JavaScript and the
 This app does not provide movie downloads or streaming. It only fetches publicly available movie data.
 
 ##  Live Demo
-(Add your Netlify link here)
+( https://naomi12-chi.github.io/Movie-finder/)
 
 ##  GitHub Repo
 (https://https://github.com/Naomi12-chi/Movie-finder)
