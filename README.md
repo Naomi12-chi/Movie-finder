@@ -30,4 +30,4 @@ This app does not provide movie downloads or streaming. It only fetches publicly
 ( https://naomi12-chi.github.io/Movie-finder/)
 
 ##  GitHub Repo
-(https://https://github.com/Naomi12-chi/Movie-finder)
+(https://github.com/Naomi12-chi/Movie-finder)
