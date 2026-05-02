@@ -27,8 +27,8 @@ A simple and interactive movie search application built using JavaScript and the
 ##  Note
 This app does not provide movie downloads or streaming. It only fetches publicly available movie data.
 
-## 📌 Live Demo
+##  Live Demo
 (Add your Netlify link here)
 
-## 📁 GitHub Repo
-(Add your GitHub link here)
+##  GitHub Repo
+(https://https://github.com/Naomi12-chi/Movie-finder)
